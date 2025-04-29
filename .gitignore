@@ -1,0 +1,13 @@
+# Ignore class files
+*.class
+
+# Ignore IDE project files (if using IntelliJ IDEA, Eclipse, etc.)
+.idea/
+*.iml
+*.project
+*.classpath
+
+# Ignore logs
+*.log
+
+# Ignore any other non-source files
